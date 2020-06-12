@@ -1,0 +1,26 @@
+* {
+  /* margin: 0; */
+  /* padding: 0; */
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  background-color:blue;
+  height: 2px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
